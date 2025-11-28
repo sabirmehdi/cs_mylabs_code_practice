@@ -31,7 +31,7 @@ int main(){
     
     // Creating new Node
     
-    p= new Node;
+    p= new Node;  //second way of getting address of the location, new creates and returns addresswithout naming the location.
     
     p->data= 30; // updating the data value of newly created node
     
